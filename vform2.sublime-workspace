@@ -1,0 +1,458 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"mai",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"t",
+				"tbody	Tag"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"defa",
+				"defaultValue"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"optio",
+				"options"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"vS",
+				"vSelectVal1"
+			],
+			[
+				"vTe",
+				"vTextVal1"
+			],
+			[
+				"te",
+				"Text"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"pro",
+				"props	React: this.props"
+			],
+			[
+				"con",
+				"component"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"next",
+				"next	.next()"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"file",
+				"fileList"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"margin",
+				"marginTop"
+			],
+			[
+				"input",
+				"input-sm"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"comm",
+				"comment-title"
+			],
+			[
+				"rdom",
+				"ReactDOM"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"INSTLA",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"instlal",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ital",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 395.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mawenzhong/develop/vue/vform2/src/main.js",
+		"/Users/mawenzhong/develop/vue/vform2/src/components/v-form-component.vue",
+		"/Users/mawenzhong/develop/vue/vform2/src/components/v-radio.vue",
+		"/Users/mawenzhong/develop/vue/vform2/src/components/v-input.vue",
+		"/Users/mawenzhong/develop/vue/vform2/src/App.vue",
+		"/Users/mawenzhong/develop/vue/vform2/src/store/index.js",
+		"/Users/mawenzhong/develop/vue/vform2/src/components/v-checkbox.vue",
+		"/Users/mawenzhong/develop/vue/vform2/src/components/v-select.vue",
+		"/Users/mawenzhong/develop/vue/vform2/src/components/Hello.vue",
+		"/Users/mawenzhong/develop/vue/vform2/build/dev-server.js",
+		"/Users/mawenzhong/develop/vue/vform2/index.html",
+		"/Users/mawenzhong/Downloads/index.js",
+		"/Users/mawenzhong/develop/vue/vform/src/App.vue",
+		"/Users/mawenzhong/develop/vue/vform/src/components/Text.vue",
+		"/Users/mawenzhong/develop/vue/vform/src/components/Select.vue",
+		"/Users/mawenzhong/develop/vue/vform/src/components/Radio.vue",
+		"/Users/mawenzhong/develop/vue/vform/src/vuex/actions.js",
+		"/Users/mawenzhong/develop/vue/vform/src/vuex/store.js",
+		"/Users/mawenzhong/develop/react/antd-project/package.json",
+		"/Users/mawenzhong/develop/vue/vform/src/components/Hello.vue",
+		"/Users/mawenzhong/develop/vue/vform/.eslintrc.js",
+		"/Users/mawenzhong/develop/vue/vform/build/webpack.base.conf.js",
+		"/Users/mawenzhong/develop/vue/vform/src/main.js",
+		"/Users/mawenzhong/develop/vue/vform/.eslintignore",
+		"/Users/mawenzhong/develop/vue/vform/.editorconfig",
+		"/Users/mawenzhong/develop/vue/vform/src/components/text.vue",
+		"/Users/mawenzhong/develop/vue/vform/index.html",
+		"/Users/mawenzhong/develop/react-native/hello/index.android.js",
+		"/Users/mawenzhong/develop/react-native/hello/node_modules/react/lib/ReactCompositeComponent.js",
+		"/Users/mawenzhong/develop/react-native/hello/index.ios.js",
+		"/Users/mawenzhong/develop/react-native/hello/node_modules/react/lib/ReactReconciler.js",
+		"/Users/mawenzhong/develop/react-native/hello/node_modules/react/lib/ReactNativeBaseComponent.js",
+		"/Users/mawenzhong/develop/react/reactapp/node_modules/antd/dist/antd.js",
+		"/Users/mawenzhong/develop/react/reactapp/node_modules/react-scripts/config/webpack.config.dev.js",
+		"/Users/mawenzhong/develop/react/reactapp/src/Antd.js",
+		"/Users/mawenzhong/develop/react/reactapp/index.html",
+		"/Users/mawenzhong/develop/react/reactapp/.babelrc",
+		"/Users/mawenzhong/develop/react/reactapp/node_modules/react-scripts/package.json",
+		"/Users/mawenzhong/develop/react/reactapp/node_modules/react-scripts/config/babel.dev.js",
+		"/Users/mawenzhong/develop/react/reactapp/src/index.js",
+		"/Users/mawenzhong/develop/react/reactapp/src/Form.js",
+		"/Users/mawenzhong/develop/react/reactapp/src/edit.js",
+		"/Users/mawenzhong/develop/react/reactapp/src/App.js",
+		"/Users/mawenzhong/develop/react/reactapp/src/Features.js",
+		"/Users/mawenzhong/develop/react/reactapp/src/reducers.js",
+		"/Users/mawenzhong/develop/react/reactapp/src/Home.js",
+		"/Users/mawenzhong/develop/react/reactapp/src/features.js",
+		"/Users/mawenzhong/develop/react/reactapp/node_modules/react-scripts/template/src/untitled",
+		"/Users/mawenzhong/develop/react/reactapp/src/App.css",
+		"/Users/mawenzhong/develop/react/reactapp/node_modules/react-scripts/config/babel.prod.js",
+		"/Users/mawenzhong/develop/react/reactapp/package.json",
+		"/Users/mawenzhong/develop/vue/hello-world/src/App.vue",
+		"/Users/mawenzhong/develop/vue/hello-world/src/components/Hello.vue",
+		"/Users/mawenzhong/develop/vue/hello-world/index.html",
+		"/Users/mawenzhong/develop/vue/hello-world/package.json",
+		"/Users/mawenzhong/develop/vue/hello-world/build/dev-server.js",
+		"/Users/mawenzhong/develop/nodejs/koa/index.js",
+		"/Users/mawenzhong/develop/nodejs/koa/routes/bigpipe.js",
+		"/Users/mawenzhong/develop/nodejs/koa/routes/view.js",
+		"/Users/mawenzhong/develop/nodejs/koa/test.js",
+		"/Users/mawenzhong/develop/nodejs/koa/test2.js",
+		"/Users/mawenzhong/develop/nodejs/koa/tpl/layout.html",
+		"/Users/mawenzhong/develop/nodejs/koa/package.json",
+		"/Users/mawenzhong/develop/nodejs/koa/routes/user.js",
+		"/Users/mawenzhong/develop/autoconfig-mac-vimrc/README.md",
+		"/Users/mawenzhong/develop/nodejs/koa/webpack.config.js",
+		"/Users/mawenzhong/develop/nodejs/koa/modules/main.js",
+		"/Users/mawenzhong/develop/nodejs/koa/bundle.js",
+		"/Users/mawenzhong/develop/nodejs/app/public/show.html",
+		"/Users/mawenzhong/develop/react/app2/index.ios.js",
+		"/Users/mawenzhong/develop/nodejs/app/package.json",
+		"/Users/mawenzhong/develop/nodejs/app/app.js",
+		"/Users/mawenzhong/develop/nodejs/app/tools.note",
+		"/Users/mawenzhong/develop/nodejs/app/public/upload.html",
+		"/Users/mawenzhong/develop/nodejs/app/.foreverignore",
+		"/Users/mawenzhong/develop/nodejs/app/bower.json",
+		"/Users/mawenzhong/develop/nodejs/app/bin/www",
+		"/Users/mawenzhong/develop/nodejs/app/routes/index.js",
+		"/Users/mawenzhong/develop/nodejs/app/routes/upload.js",
+		"/Users/mawenzhong/develop/react/app/index.android.js",
+		"/Users/mawenzhong/develop/nodejs/app/bower_components/jquery-form/dist/jquery.form.js",
+		"/Users/mawenzhong/develop/nodejs/app/public/index.html",
+		"/Users/mawenzhong/develop/nodejs/app/src/db/db.js",
+		"/Users/mawenzhong/develop/react/AwesomeProject/android/app/react.gradle",
+		"/Users/mawenzhong/develop/nodejs/app/routes/users.js",
+		"/Users/mawenzhong/develop/nodejs/app/public/api.json",
+		"/Users/mawenzhong/Library/Application Support/Sublime Text 2/Packages/User/JsFormat.sublime-settings",
+		"/Users/mawenzhong/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/mawenzhong/develop/nodejs/app/bower_components/jquery/dist/jquery.js",
+		"/Users/mawenzhong/develop/nodejs/app/bower_components/bootstrap/.bower.json",
+		"/Users/mawenzhong/develop/nodejs/app/bower_components/bowser/make/build.js",
+		"/Users/mawenzhong/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/myapp"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"        \n",
+			"      \n",
+			"React",
+			"'\n",
+			"300px",
+			"debugger",
+			"ajax",
+			"ajaxSubmit",
+			"\"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true
+}
